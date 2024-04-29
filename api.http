@@ -1,0 +1,2 @@
+# Get Address By Postal Code
+GET http://localhost:8000?code=67030795
